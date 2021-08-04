@@ -23,22 +23,22 @@ Throughout the Ballerini Project, we use several fonts. Unfortunately, some of t
 |[DIN Rundschrift](https://www.wfonts.com/font/din-rundschrift)| Main Font, used in Titles and Headers. *Capitalized*| *Free for Personal Use*
 |[Norwester](https://www.fontsquirrel.com/fonts/norwester)| Used in Calendar for week days. *No Latin Version* | *Free for Personal Use*
 |[Teko](https://fonts.google.com/specimen/Teko)| Used as a alternate for Norwester due to the Latin charset | *Free*
-|[Genty Sans](https://www.fontsquirrel.com/fonts/norwester)| Used in the Calendar for Events | *Paid*
+|[Genty Sans](https://creativemarket.com/Flavortype/5150494-Genty-Bold-Rounded-Typeface?u=jack.john)| Used in the Calendar for Events | *Paid*
 |[Concert One](https://fonts.google.com/specimen/Concert+One)| Genty Sans Alernative | *Free for Personal Use*
 
 ## Color Palette
 
 | Preview | Hex Code | Usage |
 |---------|----------|-------|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/2F2325.png?raw=true" width="64" alt=""/>|#2F2325|Background|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/A45A49.png?raw=true" width="64" alt=""/>|#A45A49|Primary|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/E68E7B.png?raw=true" width="64" alt=""/>|#E68E7B|Alt|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/FFFFFF.png?raw=true" width="64" alt=""/>|#FFFFFF|White|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/97D4D9.png?raw=true" width="64" alt=""/>|#97D4D9|Pastel Blue|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/FEAFBE.png?raw=true" width="64" alt=""/>|#FEAFBE|Pastel Pink|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/B3DFD3.png?raw=true" width="64" alt=""/>|#B3DFD3|Pastel Green|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/EFC764.png?raw=true" width="64" alt=""/>|#EFC764|Pastel Yellow|
-|<img src="https://github.com/Ballerini-Server/BrandGuide/blob/dev/palette/FFF2E7.png?raw=true" width="64" alt=""/>|#FFF2E7|Pastel Light Pink|
+|<img src="./palette/2F2325.png" width="64" alt=""/>|#2F2325|Background|
+|<img src="./palette/A45A49.png" width="64" alt=""/>|#A45A49|Primary|
+|<img src="./palette/E68E7B.png" width="64" alt=""/>|#E68E7B|Alt|
+|<img src="./palette/FFFFFF.png" width="64" alt=""/>|#FFFFFF|White|
+|<img src="./palette/97D4D9.png" width="64" alt=""/>|#97D4D9|Pastel Blue|
+|<img src="./palette/FEAFBE.png" width="64" alt=""/>|#FEAFBE|Pastel Pink|
+|<img src="./palette/B3DFD3.png" width="64" alt=""/>|#B3DFD3|Pastel Green|
+|<img src="./palette/EFC764.png" width="64" alt=""/>|#EFC764|Pastel Yellow|
+|<img src="./palette/FFF2E7.png" width="64" alt=""/>|#FFF2E7|Pastel Light Pink|
 
 ## Figma Template
 
