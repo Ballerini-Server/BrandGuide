@@ -28,17 +28,17 @@ Throughout the Ballerini Project, we use several fonts. Unfortunately, some of t
 
 ## Color Palette
 
-| Preview | Hex Code | Usage |
-|---------|----------|-------|
-|<img src="./palette/2F2325.png" width="64" alt=""/>|#2F2325|Background|
-|<img src="./palette/A45A49.png" width="64" alt=""/>|#A45A49|Primary|
-|<img src="./palette/E68E7B.png" width="64" alt=""/>|#E68E7B|Alt|
-|<img src="./palette/FFFFFF.png" width="64" alt=""/>|#FFFFFF|White|
-|<img src="./palette/97D4D9.png" width="64" alt=""/>|#97D4D9|Pastel Blue|
-|<img src="./palette/FEAFBE.png" width="64" alt=""/>|#FEAFBE|Pastel Pink|
-|<img src="./palette/B3DFD3.png" width="64" alt=""/>|#B3DFD3|Pastel Green|
-|<img src="./palette/EFC764.png" width="64" alt=""/>|#EFC764|Pastel Yellow|
-|<img src="./palette/FFF2E7.png" width="64" alt=""/>|#FFF2E7|Pastel Light Pink|
+| Preview | Hex Code | RGB | HSL | Usage |
+|---------|----------|-----|-----|-------|
+|<img src="./palette/2F2325.png" width="64" alt=""/>|#2F2325|47, 35, 37|350, 15%, 16%|Background|
+|<img src="./palette/A45A49.png" width="64" alt=""/>|#A45A49|162, 89, 73|11, 38%, 46%|Primary|
+|<img src="./palette/E68E7B.png" width="64" alt=""/>|#E68E7B|230, 142, 123|11, 68%, 69%|Alt|
+|<img src="./palette/FFFFFF.png" width="64" alt=""/>|#FFFFFF|255, 255, 255|0, 0%, 100%|White|
+|<img src="./palette/97D4D9.png" width="64" alt=""/>|#97D4D9|151, 212, 217|185, 46%, 72%|Pastel Blue|
+|<img src="./palette/FEAFBE.png" width="64" alt=""/>|#FEAFBE|254, 175, 190|349, 98%, 84%|Pastel Pink|
+|<img src="./palette/B3DFD3.png" width="64" alt=""/>|#B3DFD3|179, 223, 211|164, 41%, 79%|Pastel Green|
+|<img src="./palette/EFC764.png" width="64" alt=""/>|#EFC764|239, 199, 100|43, 81%, 66%|Pastel Yellow|
+|<img src="./palette/FFF2E7.png" width="64" alt=""/>|#FFF2E7|255, 242, 231|27, 100%, 95%|Pastel Light Pink|
 
 ## Figma Template
 
