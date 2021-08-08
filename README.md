@@ -50,4 +50,4 @@ Duplicate the template and rename it to your project name.
 
 ### Version
 
-This documentation is in version v1.0. Last edited: 08/2021. 
+This documentation is in version v1.1 Last edited: 08/2021. 
