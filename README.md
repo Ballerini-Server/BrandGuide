@@ -33,7 +33,7 @@ Throughout the Ballerini Project, we use several fonts. Unfortunately, some of t
 |<img src="./palette/2F2325.png" width="64" alt=""/>|#2F2325|47 35 37|350° 15% 16%|Background|
 |<img src="./palette/A45A49.png" width="64" alt=""/>|#A45A49|162 89 73|11° 38% 46%|Primary|
 |<img src="./palette/E68E7B.png" width="64" alt=""/>|#E68E7B|230 142 123|11° 68% 69%|Alt|
-|<img src="./palette/FFFFFF.png" width="64" alt=""/>|#FFFFFF|255 255 255|0° 0%° 100%|White|
+|<img src="./palette/FFFFFF.png" width="64" alt=""/>|#FFFFFF|255 255 255|0° 0% 100%|White|
 |<img src="./palette/97D4D9.png" width="64" alt=""/>|#97D4D9|151 212 217|185° 46% 72%|Pastel Blue|
 |<img src="./palette/FEAFBE.png" width="64" alt=""/>|#FEAFBE|254 175 190|349° 98% 84%|Pastel Pink|
 |<img src="./palette/B3DFD3.png" width="64" alt=""/>|#B3DFD3|179 223 211|164° 41% 79%|Pastel Green|
