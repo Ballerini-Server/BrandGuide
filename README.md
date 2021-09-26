@@ -22,7 +22,7 @@ Throughout the Ballerini Project, we use several fonts. Unfortunately, some of t
 |---------|----------|-------|
 |[DIN Rundschrift](https://www.wfonts.com/font/din-rundschrift)| Main Font, used in Titles and Headers. *Capitalized*| *Free for Personal Use*
 |[Norwester](https://www.fontsquirrel.com/fonts/norwester)| Used in Calendar for week days. *No Latin Version* | *Free for Personal Use*
-|[Teko](https://fonts.google.com/specimen/Teko)| Used as a alternate for Norwester due to the Latin charset | *Free*
+|[Teko](https://fonts.google.com/specimen/Teko)| Used as a alternate for DIN Rundschrift in some workspaces | *Free*
 |[Genty Sans](https://creativemarket.com/Flavortype/5150494-Genty-Bold-Rounded-Typeface?u=jack.john)| Used in the Calendar for Events | *Paid*
 |[Concert One](https://fonts.google.com/specimen/Concert+One)| Genty Sans Alernative | *Free for Personal Use*
 
